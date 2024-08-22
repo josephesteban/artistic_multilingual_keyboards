@@ -14,9 +14,9 @@ const List<String> symbolickeyboard1 = [
 
 /// Special Character
 const List<String> symbolickeyboard2 = [
-  "+", "/", "-", "=",  "|",  "\\",  "[",  "]",  "<",  ">",
-  "φ", "λ",  "μ",  ";",  ":",  "\"",  "\'",  "Π",  "Ω",
-  "∂" , "®",  "©",  "±",  "ɸ",  ".",  ",",];
+  "*", "+", "/", "-", "=",  "|",  "\\",  "[",  "]",  "<",  
+  ">", "φ", "λ",  "μ",  ";",  ":",  "\"",  "\'",  "Π",  "Ω",
+  "∂" , "®",  "©",  "±",  ".",  ",",];
 
 /// Small English Keyboard Alphabets
 const List<String> englishLowerCaseAlphabetsQWERTY = [
